@@ -158,7 +158,7 @@ int main()
 	list.insertNode(2);
 	list.insertNode(3);
 	list.insertNode(4);
-
+        cout << "Output :-\n";
 	cout << "Elements of the list are: ";
 
 	// Print the list
