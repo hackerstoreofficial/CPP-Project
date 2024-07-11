@@ -10,3 +10,6 @@ Project made in C++ Source Code
 
 3. For studentrecordsystem.cpp (run it anywhere)
    like VS Code
+
+You can also add your C++ projects here by using the push and pull requests.
+You are also invited to the discussion section for the discussion.
