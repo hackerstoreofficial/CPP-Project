@@ -13,4 +13,4 @@ Project made in C++ Source Code
    like VS Code
 
 You can also add your C++ projects here by using the push and pull requests.
-You are also invited to the discussion section for the discussion.
+You are also invited to the discussion section for the discussion. 
